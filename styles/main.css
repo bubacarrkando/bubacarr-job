@@ -1,0 +1,36 @@
+.page,
+h1,
+h2,
+p {
+  margin: 0;
+}
+
+.page {
+  background-color: orange;
+  line-height: 1.7;
+  font-size: 100%;
+  color: black;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.responsive-img {
+  max-width: 100%;
+  height: auto;
+}
+
+.page__wrapper {
+  background-color: white;
+  width: 70%;
+  margin: 3.4em auto; 
+  padding: 1.7em;
+  border-radius: 25px;
+}
+
+h1,
+h2 {
+  margin-bottom: 1em;
+}
+
+p {
+  margin-bottom: 1.7em;
+}
